@@ -1,0 +1,38 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #00196b;
+    text-align: left;
+}
+
+th, td {
+    padding: 8px;
+    border: 1px solid #ee2424;
+    vertical-align: middle;
+   
+}
+
+th {
+    background-color: #75033c;
+}
+
+img {
+    max-width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+tr, th {
+    color: rgb(210, 208, 211);
+}
+P{
+    margin-left: 35%;
+
+}
+h2{
+    margin-left: 35%;
+}
